@@ -1,2 +1,2 @@
-# tamago55123-website-jekyll
-jekyll移行用
+# tamago55123-website
+全く手をつけれてない
